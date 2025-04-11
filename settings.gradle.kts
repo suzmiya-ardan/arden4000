@@ -1,2 +1,2 @@
 //Change this
-rootProject.name = "addon-kotlin-template"
+rootProject.name = "Arden-4000"

@@ -21,7 +21,7 @@ buildscript {
 apply(plugin = "net.minecraftforge.gradle")
 
 //Change this
-group = "dev.siro256.rtmpack.template"
+group = "net.suzumiyatrainer.rtmpacks.arden4000"
 version = "1.0.0-SNAPSHOT"
 
 repositories {
@@ -36,7 +36,7 @@ dependencies {
     api(kotlin("stdlib"))
 
     //Forge
-    add("minecraft", "net.minecraftforge:forge:1.12.2-14.23.5.2855")
+    add("minecraft", "net.minecraftforge:forge:1.7.10-10.13.4.1614")
 
     //NGTLib and RTM
     //If you want to update, see https://www.cursemaven.com/
